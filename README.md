@@ -34,4 +34,3 @@ For example, pretrain R3D backbone on UCF101, evaluate video retrieval on UCF101
   doi={10.1109/TIP.2022.3147032}
 }
 ``` 
-If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn) 
